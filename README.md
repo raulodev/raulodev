@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/raulcobiellas" target="blank"><img src="https://img.shields.io/twitter/follow/raulcobiellas?logo=twitter&style=for-the-badge" alt="raulcobiellas" /></a> </p>
 
-- 📝 I regularly write articles on [https://t.me/InDemocratic](https://t.me/InDemocratic)
-
-- 📫 How to reach me **raulcobiellas@gmail**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raulcobiellas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raulcobiellas" height="30" width="40" /></a>
