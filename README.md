@@ -9,8 +9,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indemocratic&row=2&column=3&theme=juicyfresh" alt="indemocratic" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indemocratic&show_icons=true&locale=en&layout=compact" alt="indemocratic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indemocratic&show_icons=true&locale=en" alt="indemocratic" /></p>
-
 
