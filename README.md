@@ -1,17 +1,11 @@
 <h1 align="center">Halo I'am raulodev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulodev&label=Profile%20views&color=0e75b6&style=flat" alt="raulodev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulodev" alt="raulodev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/raulcobiellas" target="blank"><img src="https://img.shields.io/twitter/follow/raulcobiellas?logo=twitter&style=for-the-badge" alt="raulcobiellas" /></a> </p>
 
-- 📝 I regularly write articles on [https://t.me/raulodev](https://t.me/raulodev)
+<a href="https://t.me/raulodev"><img alt="Telegram" src="https://img.shields.io/badge/raulodev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 
 - 📫 How to reach me **raulcobiellas@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +29,6 @@
 
 
 
-<a href="https://t.me/raulodev"><img alt="Telegram" src="https://img.shields.io/badge/raulodev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulodev&row=2&column=3&theme=juicyfresh" alt="RaulCobiellas" /></a> </p>
 
