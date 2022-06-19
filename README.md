@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://t.me/raulodev](https://t.me/raulodev)
 
-- 📫 How to reach me **raulcobiellas@gmail**
+- 📫 How to reach me **raulcobiellas@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
