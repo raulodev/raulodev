@@ -1,9 +1,5 @@
 <h1 align="center">Halo I'am raulodev</h1>
 
-<p align="left"> <a href="https://twitter.com/raulcobiellas" target="blank"><img src="https://img.shields.io/twitter/follow/raulcobiellas?logo=twitter&style=for-the-badge" alt="raulcobiellas" /></a> </p>
-
-<a href="https://t.me/raulodev"><img alt="Telegram" src="https://img.shields.io/badge/raulodev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
