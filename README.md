@@ -5,7 +5,7 @@
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulodev&show_icons=true&locale=en&layout=compact" alt="raulodev" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulodev&show_icons=true&locale=en" alt="raulodev" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulodev&" alt="raulodev" /></p>
