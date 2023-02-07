@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulodev&" alt="raulodev" width="400" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulodev" alt="raulodev" width="400" />
 
 </p>
 
