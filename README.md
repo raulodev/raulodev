@@ -25,11 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulodev&show_icons=true&locale=en" alt="raulodev" width="400" />
 </p>
 
-<p align="center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulodev" alt="raulodev" width="400" />
-
-</p>
-
 ###
 
 <div align="center">  
