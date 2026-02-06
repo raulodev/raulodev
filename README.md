@@ -1,16 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Raúl</h1>
-<h3 align="center">A software developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Raúl</h1> -->
+<!-- <h3 align="center">A software developer</h3> -->
 
-###
 
-<p align="center">
-  <a href="https://github-profile-trophy-fork-two.vercel.app">
+<!-- <p align="center">
    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=raulodev&column=2"/> 
-  </a>
-</p>
-
-###
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -23,13 +18,13 @@
 
 ###
 
-<p align="center" >
+<!-- <p align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulodev&show_icons=true&locale=en&layout=compact" alt="raulodev"  width="400"/>
 </p>
 
 <p align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulodev&show_icons=true&locale=en" alt="raulodev" width="400" />
-</p>
+</p> -->
 
 ###
 
